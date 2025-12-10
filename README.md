@@ -3,7 +3,7 @@
 A simple and intelligent chatbot built using Python, NLTK, and machine learning concepts.
 This project showcases how a lightweight chatbot can understand user input, process natural language, and generate helpful responses.
 
-#🚀 Features
+# 🚀 Features
 
 🔹 Natural Language Processing (NLP) using NLTK
 
@@ -17,7 +17,7 @@ This project showcases how a lightweight chatbot can understand user input, proc
 
 🔹 Easy to integrate into larger applications
 
-#🧠 How the Chatbot Works
+# 🧠 How the Chatbot Works
 
 The chatbot follows a simple NLP pipeline:
 
@@ -30,5 +30,6 @@ The chatbot follows a simple NLP pipeline:
 4️⃣ PorterStemmer reduces words → base form
 
 5️⃣ Matches keywords in the knowledge base
+
 6️⃣ Sends the appropriate response
 
